@@ -8,10 +8,6 @@
     "name": "Chinese"
   },
   {
-    "code": "nl",
-    "name": "Dutch"
-  },
-  {
     "code": "en",
     "name": "English"
   },
@@ -24,14 +20,6 @@
     "name": "German"
   },
   {
-    "code": "el",
-    "name": "Greek, Modern"
-  },
-  {
-    "code": "he",
-    "name": "Hebrew (modern)"
-  },
-  {
     "code": "hi",
     "name": "Hindi"
   },
@@ -40,20 +28,12 @@
     "name": "Italian"
   },
   {
-    "code": "ja",
-    "name": "Japanese"
-  },
-  {
     "code": "rw",
     "name": "Kinyarwanda"
   },
   {
     "code": "ko",
     "name": "Korean"
-  },
-  {
-    "code": "la",
-    "name": "Latin"
   },
   {
     "code": "ln",
@@ -68,20 +48,12 @@
     "name": "Kirundi"
   },
   {
-    "code": "ru",
-    "name": "Russian"
-  },
-  {
     "code": "es",
     "name": "Spanish; Castilian"
   },
   {
     "code": "sw",
     "name": "Swahili"
-  },
-  {
-    "code": "tr",
-    "name": "Turkish"
   },
   {
     "code": "zu",
